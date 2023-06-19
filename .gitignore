@@ -1,0 +1,15 @@
+# VsCode settings
+.vscode
+run.py
+__pycache__
+.pylintrc
+datasets
+models
+model-data
+results
+ids-data/MachineLearningCVE-Full
+ids-data/MachineLearningCVE-minimal
+images
+pcaps
+output_logs
+cicids_rforest\ssh_forest_experiment_fin.py
